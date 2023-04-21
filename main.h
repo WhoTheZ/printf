@@ -19,6 +19,7 @@
 #define S_SHORT 1
 
 /**
+ * strct
  * struct fmt - Struct op
  *
  * @fmt: The format.
